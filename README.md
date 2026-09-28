@@ -4,7 +4,7 @@ Prácticas de modelos de simulación numérica y resolución de ecuaciones difer
 # Contenido
 
 - **Simulación Numérica:** Generación de datos arbitrarios siguiendo distribuciones de probabilidad
-- **Resolución de ecuaciones diferenciales ordinarias y parciales:** Resolución de EDO mediante los métodos de: Euler, Euler-Cromer, RK2 y RK4 y de la EDP de Laplace 
+- **Resolución de ecuaciones diferenciales ordinarias y parciales:** Resolución de EDO mediante los métodos de: Euler, Euler-Cromer, RK2 y RK4, y de la EDP de Laplace 
 
 # Tecnologías y Librerías
 - Python
